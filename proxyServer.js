@@ -1,11 +1,10 @@
 var express = require('express');
 var cors = require('cors');
-const sslRedirect = require('heroku-ssl-redirect').default
+
 const axios = require('axios');
 var app = express();
 require('dotenv').config()
 app.use(cors());
-app.use(sslRedirect());
 
 const path = require('path');
 
@@ -41,6 +40,6 @@ app.get('/sendPrompt', async (req, res) => {
 
 
 app.listen(process.env.PORT || 5000, function () {
-    console.log("Server started on port 4000");
+    console.log("Server started on port " + process.env.PORT);
 });
 
