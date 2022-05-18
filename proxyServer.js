@@ -1,6 +1,6 @@
 var express = require('express');
 var cors = require('cors');
-import sslRedirect from 'heroku-ssl-redirect';
+const sslRedirect = require('heroku-ssl-redirect').default
 const axios = require('axios');
 var app = express();
 require('dotenv').config()
