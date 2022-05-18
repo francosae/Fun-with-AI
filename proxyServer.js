@@ -5,7 +5,14 @@ var app = express();
 require('dotenv').config()
 app.use(cors());
 
+const path = require('path');
 
+if (process.env.NODE_ENV === "production"){
+  app.use(express.static('client\public\index.html'));
+  app.get('*', (req, res) => {
+    req.sendFile(path.resolve(__dirname, 'client', 'index.html'));
+  })
+}
 
 const { Configuration, OpenAIApi } = require("openai");
 
