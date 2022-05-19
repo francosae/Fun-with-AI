@@ -2,13 +2,13 @@
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-## Fun with AI - Shopify's Front End Developer Intern Challenge Project, Using Open AI
+# Fun with AI - Shopify's Front End Developer Intern Challenge Project, Using Open AI
 
 ![HomeScreen](https://user-images.githubusercontent.com/69439997/169225568-6307d378-b762-4294-bfc8-93d4345675fa.PNG)
 
 
 <!-- ABOUT THE PROJECT -->
-# Summoner Recap - League of Legends Player Search/Insights, shows statistics and past game history
+# The Challenge
 
 Summoner Recap displays past match history for player accounts, including ranked statistics using the Riot Games API.
 
