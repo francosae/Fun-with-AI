@@ -20,19 +20,22 @@ Technical Requirements
 * Responses should be stored in order of newest to oldest.
 * The HTML that ends up being served client-side should be accessible and semantic 
 
+---
+
 ### Demonstration Gif
 
 ![Demo](https://user-images.githubusercontent.com/69439997/169228310-b350877b-3f30-40d9-bed6-d3ba42efb84c.gif)
 
+---
 
-### Built With
+### Technologies used:
 * [React.js](https://reactjs.org/)
 * [Node.js](https://nodejs.org/en/)
 * [Express.js](https://expressjs.com/)
 ---
-* [Heroku](https://www.heroku.com/)
-* [OpenAI API](https://openai.com/api/)
-* [Figma](https://www.figma.com/file/P64JXHfRRPNruym4LmgNqa/ShopifyInternChallenge?node-id=2%3A2)
+* [Heroku](https://www.heroku.com/) Deployment
+* [OpenAI API](https://openai.com/api/) 
+* [Figma](https://www.figma.com/file/P64JXHfRRPNruym4LmgNqa/ShopifyInternChallenge?node-id=2%3A2) UI Design
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/paulfranco12/
