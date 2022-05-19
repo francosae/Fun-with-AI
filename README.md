@@ -8,9 +8,9 @@
 
 
 <!-- ABOUT THE PROJECT -->
-
-## This app sends plain text prompts to the OpenAI API and displays the results in a list.
-
+<p align="center">
+### This app sends plain text prompts to the OpenAI API and displays the results in a list.
+</p>
 
 
 Features:
