@@ -8,7 +8,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## Summoner Recap - League of Legends Player Search/Insights, shows statistics and past game history
+# Summoner Recap - League of Legends Player Search/Insights, shows statistics and past game history
 
 Summoner Recap displays past match history for player accounts, including ranked statistics using the Riot Games API.
 
