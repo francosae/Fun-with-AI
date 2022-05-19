@@ -8,7 +8,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-# The Challenge
+### The Challenge
 
 Summoner Recap displays past match history for player accounts, including ranked statistics using the Riot Games API.
 
