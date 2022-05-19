@@ -23,15 +23,11 @@ Technical Requirements
 
 
 ### Built With
-*
-
-Major frameworks/libraries and other technolgies used for this project: 
-
 * [React.js](https://reactjs.org/)
 * [Node.js](https://nodejs.org/en/)
 * [Express.js](https://expressjs.com/)
 * [Heroku](https://www.heroku.com/)
-* [OpenAI Api](https://openai.com/api/)
+* [OpenAI API](https://openai.com/api/)
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
