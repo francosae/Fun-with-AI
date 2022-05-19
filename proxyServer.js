@@ -39,7 +39,7 @@ app.get('/sendPrompt', async (req, res) => {
 })
 
 
-app.listen(process.env.PORT || 443, function () {
+app.listen(process.env.PORT || 4000, function () {
     console.log("Server started on port " + process.env.PORT);
 });
 
