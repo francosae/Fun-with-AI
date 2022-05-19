@@ -29,9 +29,12 @@ Technical Requirements
 ---
 
 ### Technologies used:
-* [React.js](https://reactjs.org/)* [Node.js](https://nodejs.org/en/)
-* [Express.js](https://expressjs.com/) * [Heroku](https://www.heroku.com/) 
-* [OpenAI API](https://openai.com/api/) * [Figma](https://www.figma.com/file/P64JXHfRRPNruym4LmgNqa/ShopifyInternChallenge?node-id=2%3A2) 
+* [React.js](https://reactjs.org/)
+* [Node.js](https://nodejs.org/en/)
+* [Express.js](https://expressjs.com/)
+* [Heroku](https://www.heroku.com/) 
+* [OpenAI API](https://openai.com/api/)
+* [Figma](https://www.figma.com/file/P64JXHfRRPNruym4LmgNqa/ShopifyInternChallenge?node-id=2%3A2) 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/paulfranco12/
