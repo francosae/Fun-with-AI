@@ -8,9 +8,11 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## The Challenge
+This app sends plain text prompts to the OpenAI API and displays the results in a list.
 
-Summoner Recap displays past match history for player accounts, including ranked statistics using the Riot Games API.
+## Technical Requirements
+
+
 
 Features:
 *
@@ -20,6 +22,7 @@ Features:
 
 
 ### Built With
+*
 
 Major frameworks/libraries used for this project: 
 
