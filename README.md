@@ -8,35 +8,30 @@
 
 
 <!-- ABOUT THE PROJECT -->
-<p align="center">
+
 ### This app sends plain text prompts to the OpenAI API and displays the results in a list.
-</p>
 
+Technical Requirements
+* Results must come from OpenAI’s completions API
+* Each result should include at least the original prompt you entered and the response from the API.
+* Responses should be stored in order of newest to oldest.
+* The HTML that ends up being served client-side should be accessible and semantic 
 
-Features:
-*
+### Gif Demonstration
 
-
-![MatchHistory](https://user-images.githubusercontent.com/69439997/165826420-6f0ecd8d-e0f0-4a91-90c9-d782e7d21eed.png)
+![Demo](https://user-images.githubusercontent.com/69439997/169228310-b350877b-3f30-40d9-bed6-d3ba42efb84c.gif)
 
 
 ### Built With
 *
 
-Major frameworks/libraries used for this project: 
+Major frameworks/libraries and other technolgies used for this project: 
 
 * [React.js](https://reactjs.org/)
 * [Node.js](https://nodejs.org/en/)
 * [Express.js](https://expressjs.com/)
-
-<p align="right"></p>
-
-
-<p align="right"></p>
-
-
-
-<p align="right"></p>
+* [Heroku](https://www.heroku.com/)
+* [OpenAI Api](https://openai.com/api/)
 
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
